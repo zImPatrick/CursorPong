@@ -1,6 +1,7 @@
 {
     "movementX": 1,
     "movementY": 1,
+
     "endKey": {
         "key": 1,
         "ctrl": true,
