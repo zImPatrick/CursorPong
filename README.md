@@ -11,7 +11,7 @@ Assuming you've left the default exit combination, you can press `CTRL + ESC` to
 
 ## Configuring
 In this repository you will also find a `config.json` which you can customize to your liking.
-```json
+```
 {
     "movementX": 1,    // controls the movement speed
     "movementY": 1,    // ^
